@@ -239,12 +239,12 @@ border-top-right-radius: 50%;
 
 
 /*Section 3 content*/
-.section3{
+.part3{
  background-repeat: no-repeat;
  height: 700px;
 }
 
-.section3-box, .section4-box{
+.part3-box, .part4-box{
  color: #FFFFFF;
 width: 540px;
 height: 371px;
@@ -252,12 +252,11 @@ background: #232323;
 mix-blend-mode: normal;
 opacity: 0.9;
 display: flex;
-   flex-direction: column;
+flex-direction: column;
 }
 
-.section3-box p{
- width: 508px;
-height: 78px;
+.part3-box p{
+
 font-family: 'Josefin Sans';
 font-style: normal;
 font-weight: 400;
@@ -271,7 +270,7 @@ align-items: center;
 
 
 /*Section 4 content*/
-.section4{
+.part4{
  background-repeat: no-repeat;
  height: 700px;
  color: #FFFFFF;
@@ -282,20 +281,20 @@ align-items: center;
 
 
 /*section 5 content*/
-.section5{
+.part5{
  background-repeat: no-repeat;
  width: 100%;
  height: 731px;
  color: #FFFFFF;
 }
 
-.section5-content{
+.part5-content{
  display: flex;
  justify-items: center;
  flex-direction: row;
 }
 
-.section5-content p{
+.part5-text p{
  font-family: 'Josefin Sans';
 font-style: normal;
 font-weight: 300;
@@ -312,13 +311,13 @@ letter-spacing: 1.6px;
 height: 284px;
 }
 
-.section5-content-text{
+.part5-text{
  max-width: 668px;
 height: 287px;
 background: #333333;
 }
 
-.section5-footer{
+.part5-footer{
  width: 100%;
  height: 271px;
  background: #232323;
@@ -329,7 +328,7 @@ background: #333333;
  color: white;
 }
 
-.section5-footer h3{
+.part5-footer h3{
 
 font-family: 'Josefin Sans';
 font-style: normal;
@@ -340,7 +339,7 @@ letter-spacing: 3.36px;
 text-transform: uppercase;
 }
 
-.section5-footer h6{
+.part5-footer h6{
  font-family: 'Josefin Sans';
 font-style: normal;
 font-weight: 400;
@@ -349,7 +348,7 @@ line-height: 26px;
 letter-spacing: 1.6px;
 }
 
-.section5-socials{
+.part5-media{
  display: flex;
  justify-content: center;
  flex-direction: row;
@@ -358,7 +357,7 @@ letter-spacing: 1.6px;
  height: 16px;
 }    
 
-.section5-socials i{
+.part5-media i{
  color: #FFFFFF;
 }
 
