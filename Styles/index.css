@@ -1,0 +1,126 @@
+* {
+width: 100%;
+height: 4271px;
+background: #FFFFFF;
+}
+
+.container1{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+h1{
+/* Bhromaon */
+width: 342px;
+height: 26px;
+left: 15px;
+top: 13px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 26px;
+/* identical to box height, or 54% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 4.8px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+h6 {
+/* Safe Travel Anywhere */
+width: 345px;
+height: 26px;
+left: 13px;
+top: 50px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height, or 118% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 6.82px;
+
+color: #FFFFFF;
+}
+
+.container1-text{
+/* Text */
+width: 372px;
+height: 76px;
+left: 673px;
+top: 265px;
+}
+
+.search-bar{
+/* Search Bar */
+width: 653px;
+height: 63px;
+left: 560px;
+top: 389px;
+
+}
+
+.scrolldown{
+/* Scroll Down */
+position: absolute;
+width: 123px;
+height: 26px;
+left: -8px;
+top: -1px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 2.8px;
+
+color: #FFFFFF;
+}
+
+.container1-footer{
+/* Rectangle 2 */
+
+width: 1773px;
+height: 83px;
+left: 0px;
+top: 738px;
+
+background: #5474FD;
+}
+
+.navbar{
+/* Logo */
+
+width: 186px;
+height: 20px;
+left: 321px;
+top: 770px;
+
+}
+
+.navbar__menu{
+/* Menu */
+
+width: 525px;
+height: 12px;
+left: 917px;
+top: 774px;
+
+}
